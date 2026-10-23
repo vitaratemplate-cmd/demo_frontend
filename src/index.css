@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { @apply bg-[#f6fbfa] font-sans text-ink antialiased; }
+
+@layer components {
+  .glass { @apply border border-white/60 bg-white/70 backdrop-blur-xl; }
+  .card { @apply rounded-3xl border border-teal-900/5 bg-white shadow-[0_1px_2px_rgba(11,31,42,.04),0_12px_32px_-12px_rgba(11,31,42,.12)]; }
+  .eyebrow { @apply text-xs font-semibold uppercase tracking-[0.2em] text-teal-600; }
+  .h2 { @apply font-display text-4xl leading-tight md:text-5xl; }
+}
