@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "doctors": "Doctors",
+    "visit": "Visit"
+  },
+  "header": {
+    "emergency": "Emergency {{emergency_phone}}",
+    "menu": "Menu",
+    "language": "Language"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "For informational purposes only — in a medical emergency, call {{emergency_phone}}."
+  }
+}

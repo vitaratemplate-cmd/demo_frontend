@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Despre noi",
+    "services": "Servicii",
+    "doctors": "Medici",
+    "visit": "Vizitați-ne"
+  },
+  "header": {
+    "emergency": "Urgențe {{emergency_phone}}",
+    "menu": "Meniu",
+    "language": "Limbă"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Doar cu scop informativ — în caz de urgență medicală, sunați la {{emergency_phone}}."
+  }
+}

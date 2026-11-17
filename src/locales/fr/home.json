@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "Accrédité NABH · Pluridisciplinaire",
+    "title": "Des soins <em>humains</em>, fondés sur la science.",
+    "intro": "{{app_name}} réunit des cliniciens experts, une technologie moderne et une approche profondément personnalisée, pour que vous et votre famille soyez en sécurité à chaque étape de la vie.",
+    "cta_primary": "Découvrir nos soins",
+    "cta_secondary": "Préparer votre visite",
+    "quote": "« Chaque patient est une histoire dont nous avons le privilège de faire partie. »",
+    "quote_by": "— Notre principe fondateur",
+    "emergency_title": "Urgences 24 h/24, 7 j/7",
+    "emergency_text": "Délai de réponse moyen inférieur à 8 min",
+    "rating_label": "Satisfaction des patients"
+  },
+  "stats": {
+    "years": "Années de soins",
+    "doctors": "Médecins spécialistes",
+    "beds": "Lits d’hospitalisation",
+    "emergency": "Urgences et réanimation"
+  },
+  "about": {
+    "eyebrow": "Qui sommes-nous",
+    "title": "Un hôpital pensé pour les personnes, pas pour les actes.",
+    "text": "Depuis plus de trente ans, {{app_name}} est au service de notre communauté avec une promesse simple : une médecine d’excellence, délivrée avec chaleur, honnêteté et respect.",
+    "points": {
+      "teams": {
+        "title": "Des équipes centrées sur le patient",
+        "text": "Médecins, infirmiers et coordinateurs de soins qui vous accompagnent tout au long du parcours."
+      },
+      "excellence": {
+        "title": "Excellence clinique",
+        "text": "Des résultats comparés à ceux des meilleurs centres internationaux."
+      },
+      "facilities": {
+        "title": "Installations modernes",
+        "text": "Salles de chirurgie robotique, blocs opératoires hybrides et espaces conçus pour favoriser la guérison."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Centres d’excellence",
+    "title": "Des soins complets, réunis en un seul lieu.",
+    "items": {
+      "cardiology": {
+        "title": "Cardiologie",
+        "text": "Prévention cardiaque, salle de cathétérisme et chirurgie cardiaque avancée."
+      },
+      "neurosciences": {
+        "title": "Neurosciences",
+        "text": "Prise en charge des AVC, de l’épilepsie et du rachis."
+      },
+      "orthopaedics": {
+        "title": "Orthopédie",
+        "text": "Prothèses articulaires et médecine du sport."
+      },
+      "mother_child": {
+        "title": "Mère et enfant",
+        "text": "Maternité, néonatalogie et pédiatrie sous un même toit."
+      },
+      "ophthalmology": {
+        "title": "Ophtalmologie",
+        "text": "Chirurgie réfractive au laser et soins de la rétine."
+      },
+      "diagnostics": {
+        "title": "Diagnostic",
+        "text": "IRM, scanner et laboratoire d’analyses entièrement automatisé, avec résultats le jour même."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Nos spécialistes",
+    "title": "Rencontrez les experts qui veillent sur vous.",
+    "experience": "{{years}} ans d’expérience",
+    "items": {
+      "rao": {
+        "name": "Dre Ananya Rao",
+        "role": "Cheffe du service de cardiologie"
+      },
+      "mehta": {
+        "name": "Dr Rohan Mehta",
+        "role": "Neurochirurgien"
+      },
+      "nair": {
+        "name": "Dre Priya Nair",
+        "role": "Gynécologie-obstétrique"
+      },
+      "iyer": {
+        "name": "Dr Karan Iyer",
+        "role": "Chirurgien orthopédiste"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Nous rendre visite",
+    "title": "Nous sommes là chaque fois que vous avez besoin de nous.",
+    "text": "Notre service d’urgences et notre unité de soins intensifs ne ferment jamais. Pour les rendez-vous et les renseignements, adressez-vous à l’accueil pendant les heures de consultation.",
+    "emergency": "Urgences : {{emergency_phone}}",
+    "address_label": "Adresse",
+    "address": "12 avenue Meridian, Quartier de la Santé, Votre Ville 400001",
+    "hours_label": "Heures de consultation",
+    "hours": "Lun–Sam · 8 h – 20 h",
+    "reception_label": "Accueil",
+    "email_label": "E-mail"
+  }
+}

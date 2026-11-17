@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "À propos",
+    "services": "Services",
+    "doctors": "Médecins",
+    "visit": "Nous rendre visite"
+  },
+  "header": {
+    "emergency": "Urgences {{emergency_phone}}",
+    "menu": "Menu",
+    "language": "Langue"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "À titre informatif uniquement — en cas d’urgence médicale, appelez le {{emergency_phone}}."
+  }
+}

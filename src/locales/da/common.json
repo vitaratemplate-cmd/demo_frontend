@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Om os",
+    "services": "Behandlinger",
+    "doctors": "Læger",
+    "visit": "Besøg"
+  },
+  "header": {
+    "emergency": "Akut {{emergency_phone}}",
+    "menu": "Menu",
+    "language": "Sprog"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Kun til oplysning — ring {{emergency_phone}} ved akut sygdom eller ulykke."
+  }
+}

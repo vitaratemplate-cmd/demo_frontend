@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "हमारे बारे में",
+    "services": "सेवाएँ",
+    "doctors": "डॉक्टर",
+    "visit": "आइए हमसे मिलें"
+  },
+  "header": {
+    "emergency": "आपातकाल {{emergency_phone}}",
+    "menu": "मेनू",
+    "language": "भाषा"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "यह जानकारी केवल सामान्य जानकारी के लिए है — चिकित्सा आपातकाल में {{emergency_phone}} पर कॉल करें।"
+  }
+}

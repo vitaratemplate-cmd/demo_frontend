@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "NABH-akkrediteret · Flere specialer",
+    "title": "Behandling, der føles <em>menneskelig</em> og er båret af videnskab.",
+    "intro": "{{app_name}} samler dygtige specialister, moderne teknologi og en dybt personlig tilgang — så du og din familie er i trygge hænder i alle livets faser.",
+    "cta_primary": "Udforsk vores behandlinger",
+    "cta_secondary": "Planlæg dit besøg",
+    "quote": "“Hver patient er en historie, vi har fornøjelsen af at være en del af.”",
+    "quote_by": "— Vores grundprincip",
+    "emergency_title": "Akutmodtagelse 24/7",
+    "emergency_text": "Gns. responstid under 8 min.",
+    "rating_label": "Patienttilfredshed"
+  },
+  "stats": {
+    "years": "Års erfaring med pleje",
+    "doctors": "Speciallæger",
+    "beds": "Sengepladser",
+    "emergency": "Akut & intensiv"
+  },
+  "about": {
+    "eyebrow": "Om os",
+    "title": "Et hospital bygget om mennesker, ikke procedurer.",
+    "text": "I mere end tredive år har {{app_name}} tjent vores lokalsamfund med ét enkelt løfte: medicin i verdensklasse leveret med varme, ærlighed og respekt.",
+    "points": {
+      "teams": {
+        "title": "Teams med patienten i centrum",
+        "text": "Læger, sygeplejersker og tovholdere, der følger dig hele vejen."
+      },
+      "excellence": {
+        "title": "Klinisk topkvalitet",
+        "text": "Resultater, der måler sig med førende internationale centre."
+      },
+      "facilities": {
+        "title": "Moderne faciliteter",
+        "text": "Operationsstuer til robotkirurgi, hybridstuer og rum, der understøtter helbredelse."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Specialistcentre",
+    "title": "Samlet behandling på ét sted.",
+    "items": {
+      "cardiology": {
+        "title": "Kardiologi",
+        "text": "Forebyggende hjertepleje, kateterlaboratorium og avanceret hjertekirurgi."
+      },
+      "neurosciences": {
+        "title": "Neurovidenskab",
+        "text": "Blodprop i hjernen, epilepsi og rygsygdomme."
+      },
+      "orthopaedics": {
+        "title": "Ortopædi",
+        "text": "Ledudskiftning og idrætsmedicin."
+      },
+      "mother_child": {
+        "title": "Mor & barn",
+        "text": "Fødsel, neonatalafdeling og pædiatri under samme tag."
+      },
+      "ophthalmology": {
+        "title": "Øjenlæge",
+        "text": "Laserbehandling af synet og nethindepleje."
+      },
+      "diagnostics": {
+        "title": "Diagnostik",
+        "text": "MR, CT og et fuldautomatisk patologilaboratorium med svar samme dag."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Vores specialister",
+    "title": "Mød eksperterne bag din behandling.",
+    "experience": "{{years}} års erfaring",
+    "items": {
+      "rao": {
+        "name": "Dr. Ananya Rao",
+        "role": "Overlæge, kardiologi"
+      },
+      "mehta": {
+        "name": "Dr. Rohan Mehta",
+        "role": "Neurokirurg"
+      },
+      "nair": {
+        "name": "Dr. Priya Nair",
+        "role": "Obstetrik & gynækologi"
+      },
+      "iyer": {
+        "name": "Dr. Karan Iyer",
+        "role": "Ortopædkirurg"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Besøg os",
+    "title": "Vi er her, når du har brug for os.",
+    "text": "Vores akutmodtagelse og intensivafdeling holder aldrig lukket. Til aftaler og henvendelser kan du kontakte receptionen i ambulatoriets åbningstid.",
+    "emergency": "Akut: {{emergency_phone}}",
+    "address_label": "Adresse",
+    "address": "Meridianallé 12, Sundhedskvarteret, Din By 400001",
+    "hours_label": "Ambulatoriets åbningstid",
+    "hours": "Man–lør · 8:00–20:00",
+    "reception_label": "Reception",
+    "email_label": "E-mail"
+  }
+}

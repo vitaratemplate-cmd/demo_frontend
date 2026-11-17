@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "О нас",
+    "services": "Услуги",
+    "doctors": "Врачи",
+    "visit": "Как нас найти"
+  },
+  "header": {
+    "emergency": "Скорая помощь {{emergency_phone}}",
+    "menu": "Меню",
+    "language": "Язык"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Только для информации. В экстренной ситуации звоните по номеру {{emergency_phone}}."
+  }
+}

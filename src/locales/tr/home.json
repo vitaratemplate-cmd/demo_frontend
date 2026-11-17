@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "NABH akreditasyonlu · Çok disiplinli",
+    "title": "Bilimle desteklenen, <em>insani</em> bir sağlık hizmeti.",
+    "intro": "{{app_name}}; uzman hekimleri, modern teknolojiyi ve son derece kişisel bir yaklaşımı bir araya getirir — böylece siz ve aileniz hayatın her döneminde güvenli ellerde olursunuz.",
+    "cta_primary": "Hizmetlerimizi keşfedin",
+    "cta_secondary": "Ziyaretinizi planlayın",
+    "quote": "“Her hasta, parçası olmaktan onur duyduğumuz bir hikâyedir.”",
+    "quote_by": "— Kuruluş ilkemiz",
+    "emergency_title": "7/24 Acil Servis",
+    "emergency_text": "Ort. müdahale süresi 8 dakikanın altında",
+    "rating_label": "Hasta memnuniyeti"
+  },
+  "stats": {
+    "years": "Yıllık hizmet",
+    "doctors": "Uzman doktor",
+    "beds": "Hasta yatağı",
+    "emergency": "Acil Servis ve Yoğun Bakım"
+  },
+  "about": {
+    "eyebrow": "Hakkımızda",
+    "title": "İşlemlerin değil, insanların merkezde olduğu bir hastane.",
+    "text": "Otuz yılı aşkın süredir {{app_name}}, toplumumuza basit bir sözle hizmet veriyor: sıcaklık, dürüstlük ve saygıyla sunulan dünya standartlarında tıp.",
+    "points": {
+      "teams": {
+        "title": "Hasta odaklı ekipler",
+        "text": "Bu yolculukta sizinle birlikte yürüyen doktorlar, hemşireler ve bakım koordinatörleri."
+      },
+      "excellence": {
+        "title": "Klinik mükemmellik",
+        "text": "Önde gelen uluslararası merkezlerle kıyaslanan tedavi sonuçları."
+      },
+      "facilities": {
+        "title": "Modern olanaklar",
+        "text": "Robotik cerrahi salonları, hibrit ameliyathaneler ve iyileşmeyi ön planda tutan mekânlar."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Mükemmeliyet merkezleri",
+    "title": "Kapsamlı bakım, tek çatı altında.",
+    "items": {
+      "cardiology": {
+        "title": "Kardiyoloji",
+        "text": "Koruyucu kalp sağlığı, kateter laboratuvarı ve ileri kalp cerrahisi."
+      },
+      "neurosciences": {
+        "title": "Nörobilimler",
+        "text": "İnme, epilepsi ve omurga sağlığı."
+      },
+      "orthopaedics": {
+        "title": "Ortopedi",
+        "text": "Eklem protezi ve spor hekimliği."
+      },
+      "mother_child": {
+        "title": "Anne ve Çocuk",
+        "text": "Doğum, yenidoğan yoğun bakım ve çocuk sağlığı tek çatı altında."
+      },
+      "ophthalmology": {
+        "title": "Göz Hastalıkları",
+        "text": "Lazer ile görme düzeltme ve retina bakımı."
+      },
+      "diagnostics": {
+        "title": "Tanı Hizmetleri",
+        "text": "MR, BT ve aynı gün sonuç veren tam otomatik patoloji laboratuvarı."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Uzmanlarımız",
+    "title": "Sağlığınızın arkasındaki uzmanlarla tanışın.",
+    "experience": "{{years}} yıl deneyim",
+    "items": {
+      "rao": {
+        "name": "Dr. Ananya Rao",
+        "role": "Kardiyoloji Bölüm Başkanı"
+      },
+      "mehta": {
+        "name": "Dr. Rohan Mehta",
+        "role": "Beyin ve Sinir Cerrahı"
+      },
+      "nair": {
+        "name": "Dr. Priya Nair",
+        "role": "Kadın Hastalıkları ve Doğum"
+      },
+      "iyer": {
+        "name": "Dr. Karan Iyer",
+        "role": "Ortopedi Cerrahı"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Bizi ziyaret edin",
+    "title": "İhtiyacınız olduğunda yanınızdayız.",
+    "text": "Acil servisimiz ve yoğun bakım ünitemiz hiç kapanmaz. Randevu ve bilgi için poliklinik saatlerinde danışma ile iletişime geçebilirsiniz.",
+    "emergency": "Acil: {{emergency_phone}}",
+    "address_label": "Adres",
+    "address": "Meridyen Caddesi No: 12, Sağlık Mahallesi, Şehriniz 400001",
+    "hours_label": "Poliklinik saatleri",
+    "hours": "Pzt–Cmt · 08:00 – 20:00",
+    "reception_label": "Danışma",
+    "email_label": "E-posta"
+  }
+}

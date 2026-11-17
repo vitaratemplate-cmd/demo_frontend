@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Σχετικά με εμάς",
+    "services": "Υπηρεσίες",
+    "doctors": "Γιατροί",
+    "visit": "Επισκεφθείτε μας"
+  },
+  "header": {
+    "emergency": "Επείγοντα {{emergency_phone}}",
+    "menu": "Μενού",
+    "language": "Γλώσσα"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Μόνο για ενημερωτικούς σκοπούς. Σε περίπτωση ιατρικού επείγοντος, καλέστε το {{emergency_phone}}."
+  }
+}

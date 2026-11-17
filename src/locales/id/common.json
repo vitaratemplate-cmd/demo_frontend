@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "doctors": "Dokter",
+    "visit": "Kunjungi Kami"
+  },
+  "header": {
+    "emergency": "Gawat Darurat {{emergency_phone}}",
+    "menu": "Menu",
+    "language": "Bahasa"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Hanya untuk tujuan informasi — dalam keadaan darurat medis, hubungi {{emergency_phone}}."
+  }
+}

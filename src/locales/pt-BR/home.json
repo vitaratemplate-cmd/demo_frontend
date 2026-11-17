@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "Acreditado pela NABH · Multiespecialidades",
+    "title": "Um cuidado que é <em>humano</em>, fundamentado na ciência.",
+    "intro": "O {{app_name}} reúne médicos especialistas, tecnologia moderna e um atendimento muito pessoal, para que você e sua família estejam em boas mãos em todas as fases da vida.",
+    "cta_primary": "Conheça nosso cuidado",
+    "cta_secondary": "Planeje sua visita",
+    "quote": "“Cada paciente é uma história da qual temos o privilégio de fazer parte.”",
+    "quote_by": "— Nosso princípio fundador",
+    "emergency_title": "Emergência 24h",
+    "emergency_text": "Tempo médio de resposta inferior a 8 min",
+    "rating_label": "Satisfação dos pacientes"
+  },
+  "stats": {
+    "years": "Anos de cuidado",
+    "doctors": "Médicos especialistas",
+    "beds": "Leitos para pacientes",
+    "emergency": "Emergência e UTI"
+  },
+  "about": {
+    "eyebrow": "Sobre nós",
+    "title": "Um hospital feito para pessoas, não para procedimentos.",
+    "text": "Há mais de três décadas, o {{app_name}} atende nossa comunidade com uma promessa simples: medicina de padrão internacional, com acolhimento, honestidade e respeito.",
+    "points": {
+      "teams": {
+        "title": "Equipes focadas no paciente",
+        "text": "Médicos, enfermeiros e coordenadores de cuidado que caminham ao seu lado em toda a jornada."
+      },
+      "excellence": {
+        "title": "Excelência clínica",
+        "text": "Resultados comparados aos dos principais centros internacionais."
+      },
+      "facilities": {
+        "title": "Estrutura moderna",
+        "text": "Salas de cirurgia robótica, centros cirúrgicos híbridos e ambientes pensados para a recuperação."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Centros de excelência",
+    "title": "Cuidado completo, tudo em um só lugar.",
+    "items": {
+      "cardiology": {
+        "title": "Cardiologia",
+        "text": "Cuidado cardíaco preventivo, hemodinâmica e cirurgia cardíaca avançada."
+      },
+      "neurosciences": {
+        "title": "Neurociências",
+        "text": "Atendimento de AVC, epilepsia e coluna."
+      },
+      "orthopaedics": {
+        "title": "Ortopedia",
+        "text": "Próteses articulares e medicina esportiva."
+      },
+      "mother_child": {
+        "title": "Mãe e Filho",
+        "text": "Maternidade, UTI neonatal e pediatria sob o mesmo teto."
+      },
+      "ophthalmology": {
+        "title": "Oftalmologia",
+        "text": "Cirurgia a laser para a visão e cuidado da retina."
+      },
+      "diagnostics": {
+        "title": "Diagnóstico",
+        "text": "Ressonância, tomografia e um laboratório de análises totalmente automatizado com laudos no mesmo dia."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Nossos especialistas",
+    "title": "Conheça os especialistas por trás do seu cuidado.",
+    "experience": "{{years}} anos de experiência",
+    "items": {
+      "rao": {
+        "name": "Dra. Ananya Rao",
+        "role": "Chefe de Cardiologia"
+      },
+      "mehta": {
+        "name": "Dr. Rohan Mehta",
+        "role": "Neurocirurgião"
+      },
+      "nair": {
+        "name": "Dra. Priya Nair",
+        "role": "Obstetrícia e Ginecologia"
+      },
+      "iyer": {
+        "name": "Dr. Karan Iyer",
+        "role": "Cirurgião Ortopedista"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Visite-nos",
+    "title": "Estamos aqui sempre que você precisar.",
+    "text": "Nosso pronto-socorro e a UTI nunca fecham. Para consultas e informações, procure a recepção durante o horário do ambulatório.",
+    "emergency": "Emergência: {{emergency_phone}}",
+    "address_label": "Endereço",
+    "address": "Avenida Meridian, 12, Distrito da Saúde, Sua Cidade 400001",
+    "hours_label": "Horário do ambulatório",
+    "hours": "Seg–Sáb · 8h – 20h",
+    "reception_label": "Recepção",
+    "email_label": "E-mail"
+  }
+}

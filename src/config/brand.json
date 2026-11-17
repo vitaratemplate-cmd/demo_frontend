@@ -1,0 +1,9 @@
+{
+  "app_name": "Meridian Hospital",
+  "tagline": "Compassionate, advanced care for every stage of life",
+  "primary_color": "#0d9488",
+  "accent_color": "#f43f5e",
+  "font": "Noto Sans",
+  "logo": "/brand/logo.png",
+  "favicon": "/brand/favicon.png"
+}

@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "من نحن",
+    "services": "الخدمات",
+    "doctors": "الأطباء",
+    "visit": "زيارتنا"
+  },
+  "header": {
+    "emergency": "الطوارئ {{emergency_phone}}",
+    "menu": "القائمة",
+    "language": "اللغة"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "للأغراض المعلوماتية فقط — في حالات الطوارئ الطبية، اتصل بالرقم {{emergency_phone}}."
+  }
+}

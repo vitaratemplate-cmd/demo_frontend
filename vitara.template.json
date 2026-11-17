@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "branding": true,
+  "locales": {
+    "default": "en",
+    "available": ["en", "hi", "es", "pt-BR", "fr", "de", "id", "tr", "ru", "it", "ar", "pl", "nl", "ro", "ar-MA", "sr", "sv", "el", "da", "fi"]
+  }
+}

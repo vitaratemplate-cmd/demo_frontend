@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "NABH accredited · Multi-speciality",
+    "title": "Care that feels <em>human</em>, backed by science.",
+    "intro": "{{app_name}} brings together expert clinicians, modern technology, and a deeply personal approach — so you and your family are in safe hands at every stage of life.",
+    "cta_primary": "Explore our care",
+    "cta_secondary": "Plan your visit",
+    "quote": "“Every patient is a story we're privileged to be part of.”",
+    "quote_by": "— Our founding principle",
+    "emergency_title": "24/7 Emergency",
+    "emergency_text": "Avg. response under 8 min",
+    "rating_label": "Patient satisfaction"
+  },
+  "stats": {
+    "years": "Years of care",
+    "doctors": "Specialist doctors",
+    "beds": "Patient beds",
+    "emergency": "Emergency & ICU"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "A hospital built around people, not procedures.",
+    "text": "For over three decades, {{app_name}} has served our community with a simple promise: world-class medicine delivered with warmth, honesty, and respect.",
+    "points": {
+      "teams": {
+        "title": "Patient-first teams",
+        "text": "Doctors, nurses and care coordinators who walk the journey with you."
+      },
+      "excellence": {
+        "title": "Clinical excellence",
+        "text": "Outcomes benchmarked against leading international centres."
+      },
+      "facilities": {
+        "title": "Modern facilities",
+        "text": "Robotic surgery suites, hybrid OTs, and healing-first spaces."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Centres of excellence",
+    "title": "Comprehensive care, all in one place.",
+    "items": {
+      "cardiology": {
+        "title": "Cardiology",
+        "text": "Preventive heart care, cath lab, and advanced cardiac surgery."
+      },
+      "neurosciences": {
+        "title": "Neurosciences",
+        "text": "Stroke, epilepsy, and spine care."
+      },
+      "orthopaedics": {
+        "title": "Orthopaedics",
+        "text": "Joint replacement and sports medicine."
+      },
+      "mother_child": {
+        "title": "Mother & Child",
+        "text": "Maternity, NICU, and paediatrics under one roof."
+      },
+      "ophthalmology": {
+        "title": "Ophthalmology",
+        "text": "Laser vision and retina care."
+      },
+      "diagnostics": {
+        "title": "Diagnostics",
+        "text": "MRI, CT, and a fully automated pathology lab with same-day reports."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Our specialists",
+    "title": "Meet the experts behind your care.",
+    "experience": "{{years}} yrs experience",
+    "items": {
+      "rao": {
+        "name": "Dr. Ananya Rao",
+        "role": "Chief of Cardiology"
+      },
+      "mehta": {
+        "name": "Dr. Rohan Mehta",
+        "role": "Neurosurgeon"
+      },
+      "nair": {
+        "name": "Dr. Priya Nair",
+        "role": "Obstetrics & Gynaecology"
+      },
+      "iyer": {
+        "name": "Dr. Karan Iyer",
+        "role": "Orthopaedic Surgeon"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Visit us",
+    "title": "We're here whenever you need us.",
+    "text": "Our emergency department and ICU never close. For appointments and enquiries, reach the front desk during OPD hours.",
+    "emergency": "Emergency: {{emergency_phone}}",
+    "address_label": "Address",
+    "address": "12 Meridian Avenue, Health District, Your City 400001",
+    "hours_label": "OPD hours",
+    "hours": "Mon–Sat · 8:00 AM – 8:00 PM",
+    "reception_label": "Reception",
+    "email_label": "Email"
+  }
+}

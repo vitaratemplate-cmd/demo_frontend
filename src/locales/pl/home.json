@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "Akredytacja NABH · Szpital wielospecjalistyczny",
+    "title": "Opieka z <em>ludzką</em> twarzą, oparta na nauce.",
+    "intro": "{{app_name}} łączy doświadczonych lekarzy, nowoczesne technologie i naprawdę osobiste podejście — aby Ty i Twoja rodzina byliście w dobrych rękach na każdym etapie życia.",
+    "cta_primary": "Poznaj naszą opiekę",
+    "cta_secondary": "Zaplanuj wizytę",
+    "quote": "„Każdy pacjent to historia, której możemy być częścią.”",
+    "quote_by": "— Nasza naczelna zasada",
+    "emergency_title": "Pomoc w nagłych wypadkach 24/7",
+    "emergency_text": "Średni czas reakcji poniżej 8 min",
+    "rating_label": "Zadowolenie pacjentów"
+  },
+  "stats": {
+    "years": "Lat opieki",
+    "doctors": "Lekarzy specjalistów",
+    "beds": "Łóżek szpitalnych",
+    "emergency": "Ratunkowy i intensywna terapia"
+  },
+  "about": {
+    "eyebrow": "O nas",
+    "title": "Szpital zbudowany wokół ludzi, a nie procedur.",
+    "text": "Od ponad trzydziestu lat {{app_name}} służy lokalnej społeczności, dotrzymując prostej obietnicy: medycyna światowej klasy, oferowana z ciepłem, szczerością i szacunkiem.",
+    "points": {
+      "teams": {
+        "title": "Zespoły skoncentrowane na pacjencie",
+        "text": "Lekarze, pielęgniarki i koordynatorzy opieki, którzy towarzyszą Ci na każdym etapie leczenia."
+      },
+      "excellence": {
+        "title": "Doskonałość kliniczna",
+        "text": "Wyniki leczenia porównywalne z wiodącymi ośrodkami na świecie."
+      },
+      "facilities": {
+        "title": "Nowoczesna infrastruktura",
+        "text": "Sale do chirurgii robotycznej, bloki hybrydowe i przestrzenie sprzyjające zdrowieniu."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Ośrodki doskonałości",
+    "title": "Kompleksowa opieka w jednym miejscu.",
+    "items": {
+      "cardiology": {
+        "title": "Kardiologia",
+        "text": "Profilaktyka chorób serca, pracownia hemodynamiki i zaawansowana kardiochirurgia."
+      },
+      "neurosciences": {
+        "title": "Neurologia",
+        "text": "Leczenie udarów, padaczki i schorzeń kręgosłupa."
+      },
+      "orthopaedics": {
+        "title": "Ortopedia",
+        "text": "Endoprotezoplastyka stawów i medycyna sportowa."
+      },
+      "mother_child": {
+        "title": "Matka i dziecko",
+        "text": "Położnictwo, neonatologia i pediatria pod jednym dachem."
+      },
+      "ophthalmology": {
+        "title": "Okulistyka",
+        "text": "Laserowa korekcja wzroku i leczenie siatkówki."
+      },
+      "diagnostics": {
+        "title": "Diagnostyka",
+        "text": "Rezonans, tomografia i w pełni zautomatyzowane laboratorium patologii z wynikami tego samego dnia."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Nasi specjaliści",
+    "title": "Poznaj ekspertów, którzy się Tobą zajmą.",
+    "experience": "{{years}} lat doświadczenia",
+    "items": {
+      "rao": {
+        "name": "dr Ananya Rao",
+        "role": "Ordynator kardiologii"
+      },
+      "mehta": {
+        "name": "dr Rohan Mehta",
+        "role": "Neurochirurg"
+      },
+      "nair": {
+        "name": "dr Priya Nair",
+        "role": "Położnictwo i ginekologia"
+      },
+      "iyer": {
+        "name": "dr Karan Iyer",
+        "role": "Chirurg ortopeda"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Odwiedź nas",
+    "title": "Jesteśmy, gdy nas potrzebujesz.",
+    "text": "Nasz oddział ratunkowy i intensywna terapia działają całą dobę. W sprawie wizyt i informacji zgłoś się do recepcji w godzinach pracy poradni.",
+    "emergency": "Pogotowie: {{emergency_phone}}",
+    "address_label": "Adres",
+    "address": "Aleja Meridian 12, Dzielnica Zdrowia, Twoje Miasto 400001",
+    "hours_label": "Godziny pracy poradni",
+    "hours": "pon.–sob. · 8:00–20:00",
+    "reception_label": "Recepcja",
+    "email_label": "E-mail"
+  }
+}

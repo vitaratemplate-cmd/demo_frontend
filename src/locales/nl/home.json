@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "NABH-geaccrediteerd · Meerdere specialismen",
+    "title": "Zorg die <em>menselijk</em> voelt, gesteund door wetenschap.",
+    "intro": "{{app_name}} brengt deskundige specialisten, moderne technologie en een zeer persoonlijke aanpak samen — zodat u en uw gezin in elke levensfase in goede handen zijn.",
+    "cta_primary": "Ontdek onze zorg",
+    "cta_secondary": "Plan uw bezoek",
+    "quote": "“Elke patiënt is een verhaal waar we trots deel van mogen uitmaken.”",
+    "quote_by": "— Ons uitgangspunt",
+    "emergency_title": "24/7 Spoedeisende hulp",
+    "emergency_text": "Gem. aanrijtijd onder 8 min.",
+    "rating_label": "Patiënttevredenheid"
+  },
+  "stats": {
+    "years": "Jaren zorg",
+    "doctors": "Medisch specialisten",
+    "beds": "Patiëntenbedden",
+    "emergency": "Spoed & IC"
+  },
+  "about": {
+    "eyebrow": "Over ons",
+    "title": "Een ziekenhuis dat draait om mensen, niet om procedures.",
+    "text": "Al meer dan dertig jaar staat {{app_name}} voor onze gemeenschap klaar met één eenvoudige belofte: topgeneeskunde met warmte, eerlijkheid en respect.",
+    "points": {
+      "teams": {
+        "title": "Teams met de patiënt voorop",
+        "text": "Artsen, verpleegkundigen en zorgcoördinatoren die het hele traject met u meelopen."
+      },
+      "excellence": {
+        "title": "Klinische topkwaliteit",
+        "text": "Resultaten die zich meten met toonaangevende internationale centra."
+      },
+      "facilities": {
+        "title": "Moderne faciliteiten",
+        "text": "Operatiekamers voor robotchirurgie, hybride OK's en ruimtes gericht op herstel."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Expertisecentra",
+    "title": "Complete zorg, alles op één plek.",
+    "items": {
+      "cardiology": {
+        "title": "Cardiologie",
+        "text": "Preventieve hartzorg, hartcatheterisatiekamer en geavanceerde hartchirurgie."
+      },
+      "neurosciences": {
+        "title": "Neurowetenschappen",
+        "text": "Beroerte, epilepsie en rugzorg."
+      },
+      "orthopaedics": {
+        "title": "Orthopedie",
+        "text": "Gewrichtsvervanging en sportgeneeskunde."
+      },
+      "mother_child": {
+        "title": "Moeder & Kind",
+        "text": "Verloskunde, NICU en kindergeneeskunde onder één dak."
+      },
+      "ophthalmology": {
+        "title": "Oogheelkunde",
+        "text": "Laserbehandeling van het gezichtsvermogen en netvlieszorg."
+      },
+      "diagnostics": {
+        "title": "Diagnostiek",
+        "text": "MRI, CT en een volledig geautomatiseerd pathologielab met uitslagen op dezelfde dag."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Onze specialisten",
+    "title": "Maak kennis met de experts achter uw zorg.",
+    "experience": "{{years}} jaar ervaring",
+    "items": {
+      "rao": {
+        "name": "Dr. Ananya Rao",
+        "role": "Hoofd Cardiologie"
+      },
+      "mehta": {
+        "name": "Dr. Rohan Mehta",
+        "role": "Neurochirurg"
+      },
+      "nair": {
+        "name": "Dr. Priya Nair",
+        "role": "Verloskunde & Gynaecologie"
+      },
+      "iyer": {
+        "name": "Dr. Karan Iyer",
+        "role": "Orthopedisch chirurg"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Bezoek ons",
+    "title": "We zijn er wanneer u ons nodig heeft.",
+    "text": "Onze spoedeisende hulp en IC zijn nooit gesloten. Voor afspraken en vragen kunt u tijdens de poliklinische openingstijden terecht bij de balie.",
+    "emergency": "Spoed: {{emergency_phone}}",
+    "address_label": "Adres",
+    "address": "Meridianlaan 12, Gezondheidswijk, Uw Stad 400001",
+    "hours_label": "Poliklinische openingstijden",
+    "hours": "Ma–za · 8:00 – 20:00 uur",
+    "reception_label": "Receptie",
+    "email_label": "E-mail"
+  }
+}

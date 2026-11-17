@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Chi siamo",
+    "services": "Servizi",
+    "doctors": "Medici",
+    "visit": "Come raggiungerci"
+  },
+  "header": {
+    "emergency": "Emergenza {{emergency_phone}}",
+    "menu": "Menu",
+    "language": "Lingua"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Solo a scopo informativo — in caso di emergenza medica, chiama il {{emergency_phone}}."
+  }
+}

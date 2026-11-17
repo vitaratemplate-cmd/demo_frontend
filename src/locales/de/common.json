@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Über uns",
+    "services": "Leistungen",
+    "doctors": "Ärzte",
+    "visit": "Besuch"
+  },
+  "header": {
+    "emergency": "Notfall {{emergency_phone}}",
+    "menu": "Menü",
+    "language": "Sprache"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Nur zu Informationszwecken — im medizinischen Notfall rufen Sie {{emergency_phone}} an."
+  }
+}

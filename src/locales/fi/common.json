@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Tietoa meistä",
+    "services": "Palvelut",
+    "doctors": "Lääkärit",
+    "visit": "Vierailu"
+  },
+  "header": {
+    "emergency": "Päivystys {{emergency_phone}}",
+    "menu": "Valikko",
+    "language": "Kieli"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Vain tiedoksi — hätätilanteessa soita numeroon {{emergency_phone}}."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Om oss",
+    "services": "Vård & tjänster",
+    "doctors": "Läkare",
+    "visit": "Besök"
+  },
+  "header": {
+    "emergency": "Akut {{emergency_phone}}",
+    "menu": "Meny",
+    "language": "Språk"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Endast för information — vid akut sjukdom eller olycka, ring {{emergency_phone}}."
+  }
+}

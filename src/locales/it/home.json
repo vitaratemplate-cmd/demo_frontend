@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "Accreditato NABH · Multispecialistico",
+    "title": "Una cura che sa essere <em>umana</em>, sostenuta dalla scienza.",
+    "intro": "{{app_name}} riunisce clinici esperti, tecnologie moderne e un approccio profondamente personale, per far sentire te e la tua famiglia in buone mani in ogni fase della vita.",
+    "cta_primary": "Scopri le nostre cure",
+    "cta_secondary": "Pianifica la tua visita",
+    "quote": "«Ogni paziente è una storia di cui abbiamo il privilegio di far parte.»",
+    "quote_by": "— Il nostro principio fondante",
+    "emergency_title": "Pronto soccorso 24/7",
+    "emergency_text": "Tempo medio di risposta inferiore a 8 min",
+    "rating_label": "Soddisfazione dei pazienti"
+  },
+  "stats": {
+    "years": "Anni di cure",
+    "doctors": "Medici specialisti",
+    "beds": "Posti letto",
+    "emergency": "Emergenza e terapia intensiva"
+  },
+  "about": {
+    "eyebrow": "Chi siamo",
+    "title": "Un ospedale costruito attorno alle persone, non alle procedure.",
+    "text": "Da oltre trent’anni, {{app_name}} è al servizio della nostra comunità con una promessa semplice: una medicina di livello mondiale, offerta con calore, onestà e rispetto.",
+    "points": {
+      "teams": {
+        "title": "Équipe al centro del paziente",
+        "text": "Medici, infermieri e coordinatori dell’assistenza che ti accompagnano lungo tutto il percorso."
+      },
+      "excellence": {
+        "title": "Eccellenza clinica",
+        "text": "Risultati confrontati con quelli dei principali centri internazionali."
+      },
+      "facilities": {
+        "title": "Strutture moderne",
+        "text": "Sale di chirurgia robotica, sale operatorie ibride e ambienti pensati per favorire la guarigione."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Centri di eccellenza",
+    "title": "Cure complete, tutte in un unico luogo.",
+    "items": {
+      "cardiology": {
+        "title": "Cardiologia",
+        "text": "Prevenzione cardiaca, emodinamica e chirurgia cardiaca avanzata."
+      },
+      "neurosciences": {
+        "title": "Neuroscienze",
+        "text": "Cura di ictus, epilessia e patologie della colonna vertebrale."
+      },
+      "orthopaedics": {
+        "title": "Ortopedia",
+        "text": "Protesi articolari e medicina dello sport."
+      },
+      "mother_child": {
+        "title": "Mamma e bambino",
+        "text": "Maternità, terapia intensiva neonatale e pediatria sotto lo stesso tetto."
+      },
+      "ophthalmology": {
+        "title": "Oculistica",
+        "text": "Chirurgia laser della vista e cura della retina."
+      },
+      "diagnostics": {
+        "title": "Diagnostica",
+        "text": "Risonanza magnetica, TAC e un laboratorio analisi completamente automatizzato con referti in giornata."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "I nostri specialisti",
+    "title": "Conosci gli esperti che si prendono cura di te.",
+    "experience": "{{years}} anni di esperienza",
+    "items": {
+      "rao": {
+        "name": "Dott.ssa Ananya Rao",
+        "role": "Primario di Cardiologia"
+      },
+      "mehta": {
+        "name": "Dott. Rohan Mehta",
+        "role": "Neurochirurgo"
+      },
+      "nair": {
+        "name": "Dott.ssa Priya Nair",
+        "role": "Ostetricia e Ginecologia"
+      },
+      "iyer": {
+        "name": "Dott. Karan Iyer",
+        "role": "Chirurgo ortopedico"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Vieni a trovarci",
+    "title": "Siamo qui ogni volta che hai bisogno di noi.",
+    "text": "Il nostro pronto soccorso e la terapia intensiva non chiudono mai. Per appuntamenti e informazioni, rivolgiti alla reception durante gli orari degli ambulatori.",
+    "emergency": "Emergenza: {{emergency_phone}}",
+    "address_label": "Indirizzo",
+    "address": "Viale Meridian 12, Distretto della Salute, La Tua Città 400001",
+    "hours_label": "Orari ambulatori",
+    "hours": "Lun–Sab · 8:00 – 20:00",
+    "reception_label": "Reception",
+    "email_label": "E-mail"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "Acreditat NABH · Multispecialitate",
+    "title": "Îngrijire cu suflet <em>uman</em>, susținută de știință.",
+    "intro": "{{app_name}} reunește clinicieni experți, tehnologie modernă și o abordare profund personală, astfel încât dumneavoastră și familia dumneavoastră să fiți pe mâini bune în fiecare etapă a vieții.",
+    "cta_primary": "Descoperiți serviciile noastre",
+    "cta_secondary": "Planificați-vă vizita",
+    "quote": "„Fiecare pacient este o poveste din care avem privilegiul să facem parte.”",
+    "quote_by": "— Principiul nostru fondator",
+    "emergency_title": "Urgențe non-stop",
+    "emergency_text": "Timp mediu de răspuns sub 8 min",
+    "rating_label": "Satisfacția pacienților"
+  },
+  "stats": {
+    "years": "Ani de îngrijire",
+    "doctors": "Medici specialiști",
+    "beds": "Paturi pentru pacienți",
+    "emergency": "Urgențe și ATI"
+  },
+  "about": {
+    "eyebrow": "Despre noi",
+    "title": "Un spital construit în jurul oamenilor, nu al procedurilor.",
+    "text": "De peste trei decenii, {{app_name}} slujește comunitatea noastră cu o promisiune simplă: medicină de nivel mondial, oferită cu căldură, sinceritate și respect.",
+    "points": {
+      "teams": {
+        "title": "Echipe centrate pe pacient",
+        "text": "Medici, asistenți medicali și coordonatori de îngrijire care vă însoțesc pe tot parcursul tratamentului."
+      },
+      "excellence": {
+        "title": "Excelență clinică",
+        "text": "Rezultate comparate cu cele ale marilor centre internaționale."
+      },
+      "facilities": {
+        "title": "Facilități moderne",
+        "text": "Săli de chirurgie robotică, săli de operație hibride și spații gândite pentru vindecare."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Centre de excelență",
+    "title": "Îngrijire completă, într-un singur loc.",
+    "items": {
+      "cardiology": {
+        "title": "Cardiologie",
+        "text": "Prevenție cardiacă, laborator de cateterism și chirurgie cardiacă avansată."
+      },
+      "neurosciences": {
+        "title": "Neuroștiințe",
+        "text": "Îngrijirea accidentului vascular cerebral, a epilepsiei și a coloanei vertebrale."
+      },
+      "orthopaedics": {
+        "title": "Ortopedie",
+        "text": "Endoprotezare articulară și medicină sportivă."
+      },
+      "mother_child": {
+        "title": "Mamă și copil",
+        "text": "Maternitate, neonatologie și pediatrie sub același acoperiș."
+      },
+      "ophthalmology": {
+        "title": "Oftalmologie",
+        "text": "Chirurgie laser a vederii și îngrijirea retinei."
+      },
+      "diagnostics": {
+        "title": "Diagnostic",
+        "text": "RMN, CT și un laborator de analize complet automatizat, cu rezultate în aceeași zi."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Specialiștii noștri",
+    "title": "Cunoașteți experții care vă poartă de grijă.",
+    "experience": "{{years}} ani de experiență",
+    "items": {
+      "rao": {
+        "name": "Dr. Ananya Rao",
+        "role": "Șefa departamentului de Cardiologie"
+      },
+      "mehta": {
+        "name": "Dr. Rohan Mehta",
+        "role": "Neurochirurg"
+      },
+      "nair": {
+        "name": "Dr. Priya Nair",
+        "role": "Obstetrică și Ginecologie"
+      },
+      "iyer": {
+        "name": "Dr. Karan Iyer",
+        "role": "Chirurg ortoped"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Vizitați-ne",
+    "title": "Suntem aici ori de câte ori aveți nevoie de noi.",
+    "text": "Departamentul de urgențe și secția ATI nu se închid niciodată. Pentru programări și informații, adresați-vă recepției în timpul programului ambulatoriului.",
+    "emergency": "Urgențe: {{emergency_phone}}",
+    "address_label": "Adresă",
+    "address": "Bulevardul Meridian nr. 12, Cartierul Sănătății, Orașul Dumneavoastră 400001",
+    "hours_label": "Program ambulatoriu",
+    "hours": "Lun–Sâm · 08:00 – 20:00",
+    "reception_label": "Recepție",
+    "email_label": "E-mail"
+  }
+}

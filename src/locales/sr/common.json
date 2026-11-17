@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "О нама",
+    "services": "Услуге",
+    "doctors": "Лекари",
+    "visit": "Посета"
+  },
+  "header": {
+    "emergency": "Хитна помоћ {{emergency_phone}}",
+    "menu": "Мени",
+    "language": "Језик"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Само у информативне сврхе. У хитном медицинском случају позовите {{emergency_phone}}."
+  }
+}

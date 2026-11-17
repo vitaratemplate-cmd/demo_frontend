@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "عن المستشفى",
+    "services": "الخدمات",
+    "doctors": "الأطباء",
+    "visit": "كيفاش توصلنا"
+  },
+  "header": {
+    "emergency": "المستعجلات {{emergency_phone}}",
+    "menu": "القائمة",
+    "language": "اللغة"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "هاد المعلومات للإخبار فقط — في حالة مستعجلة طبية، اتصل بالرقم {{emergency_phone}}."
+  }
+}

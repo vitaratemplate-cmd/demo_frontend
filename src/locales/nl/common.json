@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Over ons",
+    "services": "Zorgaanbod",
+    "doctors": "Artsen",
+    "visit": "Bezoek"
+  },
+  "header": {
+    "emergency": "Spoed {{emergency_phone}}",
+    "menu": "Menu",
+    "language": "Taal"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Alleen ter informatie — bel bij een medisch noodgeval {{emergency_phone}}."
+  }
+}

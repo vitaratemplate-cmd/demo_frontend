@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "NABH-akkreditiert · Mehrere Fachgebiete",
+    "title": "Medizin, die <em>menschlich</em> ist – gestützt auf Wissenschaft.",
+    "intro": "{{app_name}} vereint erfahrene Fachärzte, moderne Technik und eine sehr persönliche Betreuung — damit Sie und Ihre Familie in jeder Lebensphase gut aufgehoben sind.",
+    "cta_primary": "Unsere Medizin entdecken",
+    "cta_secondary": "Besuch planen",
+    "quote": "„Jeder Patient ist eine Geschichte, die wir mitgestalten dürfen.“",
+    "quote_by": "— Unser Leitgedanke",
+    "emergency_title": "Notaufnahme rund um die Uhr",
+    "emergency_text": "Ø Reaktionszeit unter 8 Min.",
+    "rating_label": "Patientenzufriedenheit"
+  },
+  "stats": {
+    "years": "Jahre Erfahrung",
+    "doctors": "Fachärzte",
+    "beds": "Patientenbetten",
+    "emergency": "Notfall & Intensivstation"
+  },
+  "about": {
+    "eyebrow": "Über uns",
+    "title": "Ein Krankenhaus für Menschen, nicht für Prozeduren.",
+    "text": "Seit über drei Jahrzehnten versorgt {{app_name}} die Menschen in unserer Region mit einem einfachen Versprechen: Medizin auf Weltniveau, mit Wärme, Ehrlichkeit und Respekt.",
+    "points": {
+      "teams": {
+        "title": "Teams mit Patienten im Mittelpunkt",
+        "text": "Ärzte, Pflegekräfte und Koordinatoren, die Sie auf Ihrem Weg begleiten."
+      },
+      "excellence": {
+        "title": "Klinische Exzellenz",
+        "text": "Behandlungsergebnisse im Vergleich mit führenden internationalen Zentren."
+      },
+      "facilities": {
+        "title": "Moderne Ausstattung",
+        "text": "Robotik-OP-Säle, Hybrid-OPs und Räume, die der Genesung dienen."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Exzellenzzentren",
+    "title": "Umfassende Versorgung an einem Ort.",
+    "items": {
+      "cardiology": {
+        "title": "Kardiologie",
+        "text": "Herzvorsorge, Herzkatheterlabor und moderne Herzchirurgie."
+      },
+      "neurosciences": {
+        "title": "Neurowissenschaften",
+        "text": "Schlaganfall, Epilepsie und Wirbelsäule."
+      },
+      "orthopaedics": {
+        "title": "Orthopädie",
+        "text": "Gelenkersatz und Sportmedizin."
+      },
+      "mother_child": {
+        "title": "Mutter & Kind",
+        "text": "Geburtshilfe, Neugeborenen-Intensivstation und Kinderheilkunde unter einem Dach."
+      },
+      "ophthalmology": {
+        "title": "Augenheilkunde",
+        "text": "Laser-Sehkorrektur und Netzhautversorgung."
+      },
+      "diagnostics": {
+        "title": "Diagnostik",
+        "text": "MRT, CT und ein vollautomatisiertes Pathologielabor mit Befunden am selben Tag."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Unsere Fachärzte",
+    "title": "Lernen Sie die Experten hinter Ihrer Versorgung kennen.",
+    "experience": "{{years}} Jahre Erfahrung",
+    "items": {
+      "rao": {
+        "name": "Dr. Ananya Rao",
+        "role": "Chefärztin der Kardiologie"
+      },
+      "mehta": {
+        "name": "Dr. Rohan Mehta",
+        "role": "Neurochirurg"
+      },
+      "nair": {
+        "name": "Dr. Priya Nair",
+        "role": "Geburtshilfe & Gynäkologie"
+      },
+      "iyer": {
+        "name": "Dr. Karan Iyer",
+        "role": "Orthopäde und Unfallchirurg"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Besuchen Sie uns",
+    "title": "Wir sind da, wenn Sie uns brauchen.",
+    "text": "Unsere Notaufnahme und die Intensivstation sind immer geöffnet. Für Termine und Anfragen erreichen Sie die Anmeldung während der Sprechzeiten der Ambulanz.",
+    "emergency": "Notfall: {{emergency_phone}}",
+    "address_label": "Adresse",
+    "address": "Meridian-Allee 12, Gesundheitsviertel, Ihre Stadt 400001",
+    "hours_label": "Sprechzeiten",
+    "hours": "Mo–Sa · 8:00 – 20:00 Uhr",
+    "reception_label": "Anmeldung",
+    "email_label": "E-Mail"
+  }
+}

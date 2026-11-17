@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "NABH-akkreditoitu · Monialainen sairaala",
+    "title": "<em>Inhimillistä</em> hoitoa, jonka takana on tiede.",
+    "intro": "{{app_name}} yhdistää asiantuntevat lääkärit, nykyaikaisen teknologian ja syvästi henkilökohtaisen otteen — jotta sinä ja perheesi olette turvallisissa käsissä elämän jokaisessa vaiheessa.",
+    "cta_primary": "Tutustu hoitoomme",
+    "cta_secondary": "Suunnittele vierailusi",
+    "quote": "”Jokainen potilas on tarina, jonka osana saamme olla.”",
+    "quote_by": "— Perustava periaatteemme",
+    "emergency_title": "Päivystys 24/7",
+    "emergency_text": "Keskim. vasteaika alle 8 min",
+    "rating_label": "Potilastyytyväisyys"
+  },
+  "stats": {
+    "years": "Vuotta hoitotyötä",
+    "doctors": "Erikoislääkäriä",
+    "beds": "Potilaspaikkaa",
+    "emergency": "Päivystys & teho"
+  },
+  "about": {
+    "eyebrow": "Tietoa meistä",
+    "title": "Sairaala, joka rakentuu ihmisten, ei toimenpiteiden ympärille.",
+    "text": "Yli kolmen vuosikymmenen ajan {{app_name}} on palvellut yhteisöämme yksinkertaisella lupauksella: maailmanluokan lääketiedettä lämmöllä, rehellisyydellä ja kunnioituksella.",
+    "points": {
+      "teams": {
+        "title": "Potilas edellä toimivat tiimit",
+        "text": "Lääkärit, hoitajat ja hoidon koordinoijat kulkevat rinnallasi koko hoitopolun."
+      },
+      "excellence": {
+        "title": "Kliininen huippuosaaminen",
+        "text": "Hoitotulokset vertailussa johtaviin kansainvälisiin keskuksiin."
+      },
+      "facilities": {
+        "title": "Nykyaikaiset tilat",
+        "text": "Robottikirurgian leikkaussalit, hybridileikkaussalit ja paranemista tukevat tilat."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Huippuosaamiskeskukset",
+    "title": "Kattava hoito kaikki yhdessä paikassa.",
+    "items": {
+      "cardiology": {
+        "title": "Kardiologia",
+        "text": "Sydänsairauksien ehkäisy, sydänkatetrilaboratorio ja edistynyt sydänkirurgia."
+      },
+      "neurosciences": {
+        "title": "Neurologia",
+        "text": "Aivohalvaus, epilepsia ja selkäsairaudet."
+      },
+      "orthopaedics": {
+        "title": "Ortopedia",
+        "text": "Nivelleikkaukset ja urheilulääketiede."
+      },
+      "mother_child": {
+        "title": "Äiti & lapsi",
+        "text": "Synnytykset, vastasyntyneiden teho-osasto ja lastenlääketiede saman katon alla."
+      },
+      "ophthalmology": {
+        "title": "Silmätaudit",
+        "text": "Laserilla tehtävä näönkorjaus ja verkkokalvon hoito."
+      },
+      "diagnostics": {
+        "title": "Diagnostiikka",
+        "text": "MRI, TT ja täysin automatisoitu patologian laboratorio, jonka vastaukset saat samana päivänä."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Erikoislääkärimme",
+    "title": "Tutustu hoitosi takana oleviin asiantuntijoihin.",
+    "experience": "{{years}} vuoden kokemus",
+    "items": {
+      "rao": {
+        "name": "Lääkäri Ananya Rao",
+        "role": "Kardiologian ylilääkäri"
+      },
+      "mehta": {
+        "name": "Lääkäri Rohan Mehta",
+        "role": "Neurokirurgi"
+      },
+      "nair": {
+        "name": "Lääkäri Priya Nair",
+        "role": "Synnytys- ja naistentaudit"
+      },
+      "iyer": {
+        "name": "Lääkäri Karan Iyer",
+        "role": "Ortopedi"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Vieraile luonamme",
+    "title": "Olemme täällä aina, kun tarvitset meitä.",
+    "text": "Päivystyksemme ja teho-osastomme eivät koskaan sulje oviaan. Ajanvaraukset ja tiedustelut hoituvat vastaanoton kautta poliklinikan aukioloaikoina.",
+    "emergency": "Päivystys: {{emergency_phone}}",
+    "address_label": "Osoite",
+    "address": "Meridiaanikatu 12, Terveyskaupunginosa, Kaupunkisi 400001",
+    "hours_label": "Poliklinikan aukioloajat",
+    "hours": "Ma–la · 8.00–20.00",
+    "reception_label": "Vastaanotto",
+    "email_label": "Sähköposti"
+  }
+}

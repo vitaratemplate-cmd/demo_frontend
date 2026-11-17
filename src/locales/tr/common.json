@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "doctors": "Doktorlar",
+    "visit": "Bizi Ziyaret Edin"
+  },
+  "header": {
+    "emergency": "Acil {{emergency_phone}}",
+    "menu": "Menü",
+    "language": "Dil"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Yalnızca bilgilendirme amaçlıdır — tıbbi acil durumlarda {{emergency_phone}} numarasını arayın."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "NABH-ackrediterat · Flera specialiteter",
+    "title": "Vård som känns <em>mänsklig</em>, med vetenskap i ryggen.",
+    "intro": "{{app_name}} förenar erfarna specialister, modern teknik och ett genuint personligt bemötande — så att du och din familj är i trygga händer i varje skede av livet.",
+    "cta_primary": "Utforska vår vård",
+    "cta_secondary": "Planera ditt besök",
+    "quote": "”Varje patient är en berättelse som vi är privilegierade att få vara en del av.”",
+    "quote_by": "— Vår grundtanke",
+    "emergency_title": "Akut dygnet runt",
+    "emergency_text": "Genomsnittlig svarstid under 8 min",
+    "rating_label": "Patientnöjdhet"
+  },
+  "stats": {
+    "years": "År av vård",
+    "doctors": "Specialistläkare",
+    "beds": "Vårdplatser",
+    "emergency": "Akut & intensivvård"
+  },
+  "about": {
+    "eyebrow": "Om oss",
+    "title": "Ett sjukhus byggt kring människor, inte procedurer.",
+    "text": "I över trettio år har {{app_name}} tjänat vårt samhälle med ett enkelt löfte: medicin i världsklass, levererad med värme, ärlighet och respekt.",
+    "points": {
+      "teams": {
+        "title": "Team med patienten i fokus",
+        "text": "Läkare, sjuksköterskor och vårdsamordnare som följer med dig genom hela vårdresan."
+      },
+      "excellence": {
+        "title": "Klinisk spetskompetens",
+        "text": "Resultat som jämförs med ledande internationella centra."
+      },
+      "facilities": {
+        "title": "Moderna lokaler",
+        "text": "Operationssalar för robotkirurgi, hybridsalar och miljöer som främjar läkning."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Kompetenscentrum",
+    "title": "Heltäckande vård, allt på ett ställe.",
+    "items": {
+      "cardiology": {
+        "title": "Kardiologi",
+        "text": "Förebyggande hjärtvård, kateterlaboratorium och avancerad hjärtkirurgi."
+      },
+      "neurosciences": {
+        "title": "Neurovetenskap",
+        "text": "Stroke, epilepsi och ryggvård."
+      },
+      "orthopaedics": {
+        "title": "Ortopedi",
+        "text": "Ledprotesoperationer och idrottsmedicin."
+      },
+      "mother_child": {
+        "title": "Mor & barn",
+        "text": "Förlossning, neonatalvård och barnmedicin under samma tak."
+      },
+      "ophthalmology": {
+        "title": "Ögonsjukvård",
+        "text": "Laserbehandling av synen och näthinnevård."
+      },
+      "diagnostics": {
+        "title": "Diagnostik",
+        "text": "MR, DT och ett helautomatiserat patologilaboratorium med svar samma dag."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Våra specialister",
+    "title": "Möt experterna bakom din vård.",
+    "experience": "{{years}} års erfarenhet",
+    "items": {
+      "rao": {
+        "name": "Dr. Ananya Rao",
+        "role": "Överläkare, kardiologi"
+      },
+      "mehta": {
+        "name": "Dr. Rohan Mehta",
+        "role": "Neurokirurg"
+      },
+      "nair": {
+        "name": "Dr. Priya Nair",
+        "role": "Obstetrik & gynekologi"
+      },
+      "iyer": {
+        "name": "Dr. Karan Iyer",
+        "role": "Ortopedkirurg"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Besök oss",
+    "title": "Vi finns här när du behöver oss.",
+    "text": "Vår akutmottagning och intensivvårdsavdelning har aldrig stängt. För tidsbokning och frågor når du receptionen under mottagningens öppettider.",
+    "emergency": "Akut: {{emergency_phone}}",
+    "address_label": "Adress",
+    "address": "Meridianavenyn 12, Hälsodistriktet, Din stad 400001",
+    "hours_label": "Mottagningstider",
+    "hours": "Mån–lör · 08:00–20:00",
+    "reception_label": "Reception",
+    "email_label": "E-post"
+  }
+}

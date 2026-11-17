@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "about": "O nas",
+    "services": "Usługi",
+    "doctors": "Lekarze",
+    "visit": "Odwiedź nas"
+  },
+  "header": {
+    "emergency": "Pogotowie {{emergency_phone}}",
+    "menu": "Menu",
+    "language": "Język"
+  },
+  "footer": {
+    "rights": "© {{year}} {{app_name}}.",
+    "disclaimer": "Wyłącznie w celach informacyjnych. W nagłym przypadku medycznym zadzwoń pod numer {{emergency_phone}}."
+  }
+}

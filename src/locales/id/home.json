@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "Terakreditasi NABH · Multi-spesialis",
+    "title": "Perawatan yang terasa <em>manusiawi</em>, didukung ilmu pengetahuan.",
+    "intro": "{{app_name}} menghadirkan dokter ahli, teknologi modern, dan pendekatan yang sangat personal — agar Anda dan keluarga selalu berada di tangan yang aman di setiap tahap kehidupan.",
+    "cta_primary": "Jelajahi layanan kami",
+    "cta_secondary": "Rencanakan kunjungan Anda",
+    "quote": "“Setiap pasien adalah sebuah kisah, dan kami merasa terhormat menjadi bagian darinya.”",
+    "quote_by": "— Prinsip pendiri kami",
+    "emergency_title": "Gawat Darurat 24/7",
+    "emergency_text": "Rata-rata respons kurang dari 8 menit",
+    "rating_label": "Kepuasan pasien"
+  },
+  "stats": {
+    "years": "Tahun pelayanan",
+    "doctors": "Dokter spesialis",
+    "beds": "Tempat tidur pasien",
+    "emergency": "Gawat Darurat & ICU"
+  },
+  "about": {
+    "eyebrow": "Tentang kami",
+    "title": "Rumah sakit yang berpusat pada manusia, bukan prosedur.",
+    "text": "Selama lebih dari tiga dekade, {{app_name}} melayani masyarakat dengan satu janji sederhana: layanan medis kelas dunia yang diberikan dengan kehangatan, kejujuran, dan rasa hormat.",
+    "points": {
+      "teams": {
+        "title": "Tim yang mengutamakan pasien",
+        "text": "Dokter, perawat, dan koordinator perawatan yang mendampingi Anda sepanjang perjalanan pengobatan."
+      },
+      "excellence": {
+        "title": "Keunggulan klinis",
+        "text": "Hasil perawatan yang diukur dengan standar pusat medis internasional terkemuka."
+      },
+      "facilities": {
+        "title": "Fasilitas modern",
+        "text": "Ruang bedah robotik, kamar operasi hibrida, dan ruang yang dirancang untuk mendukung penyembuhan."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Pusat keunggulan",
+    "title": "Perawatan lengkap, semua di satu tempat.",
+    "items": {
+      "cardiology": {
+        "title": "Kardiologi",
+        "text": "Perawatan jantung preventif, laboratorium kateterisasi, dan bedah jantung canggih."
+      },
+      "neurosciences": {
+        "title": "Ilmu Saraf",
+        "text": "Penanganan stroke, epilepsi, dan tulang belakang."
+      },
+      "orthopaedics": {
+        "title": "Ortopedi",
+        "text": "Penggantian sendi dan kedokteran olahraga."
+      },
+      "mother_child": {
+        "title": "Ibu & Anak",
+        "text": "Kebidanan, NICU, dan kesehatan anak dalam satu atap."
+      },
+      "ophthalmology": {
+        "title": "Oftalmologi",
+        "text": "Koreksi penglihatan dengan laser dan perawatan retina."
+      },
+      "diagnostics": {
+        "title": "Diagnostik",
+        "text": "MRI, CT scan, dan laboratorium patologi otomatis penuh dengan hasil di hari yang sama."
+      }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Dokter spesialis kami",
+    "title": "Kenali para ahli di balik perawatan Anda.",
+    "experience": "Pengalaman {{years}} tahun",
+    "items": {
+      "rao": {
+        "name": "dr. Ananya Rao",
+        "role": "Kepala Kardiologi"
+      },
+      "mehta": {
+        "name": "dr. Rohan Mehta",
+        "role": "Dokter Bedah Saraf"
+      },
+      "nair": {
+        "name": "dr. Priya Nair",
+        "role": "Obstetri & Ginekologi"
+      },
+      "iyer": {
+        "name": "dr. Karan Iyer",
+        "role": "Dokter Bedah Ortopedi"
+      }
+    }
+  },
+  "visit": {
+    "eyebrow": "Kunjungi kami",
+    "title": "Kami siap membantu kapan pun Anda butuh.",
+    "text": "Instalasi gawat darurat dan ICU kami tidak pernah tutup. Untuk janji temu dan pertanyaan, hubungi meja resepsionis pada jam poliklinik.",
+    "emergency": "Gawat Darurat: {{emergency_phone}}",
+    "address_label": "Alamat",
+    "address": "Jl. Meridian No. 12, Kawasan Kesehatan, Kota Anda 400001",
+    "hours_label": "Jam poliklinik",
+    "hours": "Sen–Sab · 08.00 – 20.00",
+    "reception_label": "Resepsionis",
+    "email_label": "Email"
+  }
+}
